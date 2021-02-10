@@ -1,26 +1,26 @@
 {
   "products": [
     {
-      "title": "Men Casual Shoe",
-      "price": "500(cash on delivery)",
+      "title": "Man Casual Shoe",
+      "price": "800",
       "image": "./images/model-301.jpg",
       "category": "featured"
     },
     {
       "title": "Men Casual Shoe",
-      "price": "150tk ",
+      "price": "650",
       "image": "./images/pic2.png",
       "category": "trend"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Man Casual Bag",
+      "price": "999",
       "image": "./images/pic3.png",
       "category": "featured"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "2000.99",
+      "title": "Man Casual Bag",
+      "price": "999.99",
       "image": "./images/pic4.png",
       "category": "trend"
     },
