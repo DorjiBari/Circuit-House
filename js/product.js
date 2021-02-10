@@ -22,7 +22,7 @@ const displayProducts = (products, center) => {
               <i class="far fa-star"></i>
             </div>
             <div class="product-price">
-              <h4>$${price}</h4>
+              <h4>৳ ${price}</h4>
             </div>
           </div>
           <ul>
