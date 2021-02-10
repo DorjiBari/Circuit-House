@@ -119,6 +119,18 @@
       "price": "2000.99",
       "image": "./images/pic1.png",
       "category": "latest"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "2123.99",
+      "image": "./images/pic1.png",
+      "category": "latest"
+    },
+    {
+      "title": "Men Casual Shoe",
+      "price": "200.99",
+      "image": "./images/pic1.png",
+      "category": "latest"
     }
   ]
 }
