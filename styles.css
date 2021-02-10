@@ -339,6 +339,11 @@ img {
   right: -10%;
 }
 
+.banner img.special_04 {
+  width: 100rem;
+  right: -10%;
+}
+
 .banner-content {
   position: absolute;
   top: 50%;
