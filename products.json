@@ -2,8 +2,8 @@
   "products": [
     {
       "title": "Man Casual Shoe",
-      "price": "800",
-      "image": "./images/model-301.jpg",
+      "price": "400",
+      "image": "./images/violet.jpg",
       "category": "featured"
     },
     {
