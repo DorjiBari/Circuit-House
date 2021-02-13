@@ -1,21 +1,21 @@
 {
   "products": [
     {
-      "title": "Man Casual Shoe",
-      "price": "400",
-      "image": "./images/violet Cotton-1200.jpg",
+      "title": "ladies three piece",
+      "price": "1200",
+      "image": "./images/three-950.jpg",
       "category": "featured"
     },
     {
-      "title": "Men Casual Shoe",
-      "price": "650",
-      "image": "./images/pic2.png",
-      "category": "trend"
+      "title": "Violet Cotton-1",
+      "price": "1300",
+      "image": "./images/pic3.png",
+      "category": "featured"
     },
     {
-      "title": "Man Casual Bag",
-      "price": "999",
-      "image": "./images/pic3.png",
+      "title": "Violet Cotton-2",
+      "price": "1300",
+      "image": "./images/Violet-1-1200.jpg",
       "category": "featured"
     },
     {
